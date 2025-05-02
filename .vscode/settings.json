@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "chapter-2/repo/wasabi/Cargo.toml",
+      ],
+  "rust-analyzer.server.path": "rust-analyzer/bin/rust-analyzer-1.77"
+}
