@@ -1,9 +1,3 @@
-# Title
+# How the work OS practice
 
-## Summary
-
-## Install
-
-## Usage
-
-## License
+「作って学ぶ OSのしくみ」本の実習用リポジトリです。
