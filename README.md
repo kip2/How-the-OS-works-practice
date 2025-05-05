@@ -28,9 +28,9 @@
 {
     "rust-analyzer.linkedProjects": [
         // Cargo.tomlファイルのパスは現環境のもの。
-        "chapter-2/repo/wasabi/Cargo.toml",
+        "chapter-2/wasabi/Cargo.toml",
         // 追加する場合は以下の用に対象のパスを追加していくと良い
-        // "chapter-3/repo/wasabi/Cargo.toml",
+        // "chapter-3/wasabi/Cargo.toml",
       ]
 }
 ```
